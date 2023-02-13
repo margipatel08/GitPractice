@@ -14,6 +14,7 @@ class MathsTeacher extends Teacher{
 	{
 		Name="Heena";
 		Subject="Maths";
+		System.out.println("Hello...");
 		System.out.println(Name+ " " +"is" + " " +activity + " " + Subject);
 	}
 	

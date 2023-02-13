@@ -25,6 +25,7 @@ class GFG {
 
 		// Print statement for method 2
 		System.out.println(s);
+		System.out.println("hello");
 	}
 
 	// Method 3
