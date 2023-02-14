@@ -24,6 +24,7 @@ class ScienceTeacher extends Teacher{
 	{
 		Name="Meena";
 		Subject="Science";
+		System.out.println("Hello this is new change ...");
 		System.out.println(Name+ " " +"is" + " " +activity + " " + Subject);
 	}
 }
